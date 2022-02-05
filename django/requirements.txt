@@ -1,0 +1,8 @@
+django
+datetime
+smtplib
+sqlite3
+email
+pathlib
+os
+sys
